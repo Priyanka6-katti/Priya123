@@ -6,6 +6,7 @@ public class Pri1 {
 		
           System.out.println("Hi hello");
           System.out.println("Hi hello whatsup");
+		System.out.println("Nothing");
 	}
 
 }
